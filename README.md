@@ -1,8 +1,17 @@
 ### demo
 
+##### 运行
+> npm run projectA / npm run projectB  
+浏览器中打开`http://localhost:8080/webpack-dev-server`查看
+
+
+##### 简单说明
+
 需要自行配置的内容
 
 > package.json
+
+
 ```
 "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1",
